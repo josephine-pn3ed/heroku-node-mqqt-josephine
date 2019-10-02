@@ -11,7 +11,9 @@
     "url": "git+https://github.com/josephine-pn3ed/heroku-node-mqtt-josephine.git"
   },
   "keywords": [
+    "mows",
     "mqtt",
+    "websocket",
     "node"
   ],
   "engines": {
